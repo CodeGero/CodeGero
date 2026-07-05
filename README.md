@@ -1,6 +1,6 @@
 # Kryptorious Tools — Developer Workflow Automation
 
-Building **26 open-source developer tools** across Python, GitHub Actions, and npm. Scaffold, audit, secure, and ship faster — all from the command line and your CI pipeline.
+Building **29 open-source developer tools** across Python, GitHub Actions, and npm. Scaffold, audit, secure, and ship faster — all from the command line and your CI pipeline.
 
 ## 🐍 PyPI Packages
 
@@ -27,6 +27,9 @@ Building **26 open-source developer tools** across Python, GitHub Actions, and n
 | [spell-guardian](https://github.com/CodeGero/spell-guardian) | Check spelling in code and docs |
 | [merge-guardian](https://github.com/CodeGero/merge-guardian) | Enforce merge requirements |
 | [ml-guardian](https://github.com/CodeGero/ml-guardian) | Catch ML code issues |
+| [go-guardian](https://github.com/CodeGero/go-guardian) | All-in-one Go quality gate | `CodeGero/go-guardian@v1` |
+| [rust-guardian](https://github.com/CodeGero/rust-guardian) | All-in-one Rust quality gate | `CodeGero/rust-guardian@v1` |
+| [license-guardian](https://github.com/CodeGero/license-guardian) | Dependency license compliance checker | `CodeGero/license-guardian@v1` |
 | [dependency-bot](https://github.com/CodeGero/dependency-bot) | Auto-detect outdated packages |
 
 ## 📦 npm Packages
@@ -43,7 +46,7 @@ Building **26 open-source developer tools** across Python, GitHub Actions, and n
 
 ---
 
-*26 tools. 3 platforms. All MIT-licensed. Free to use.*
+*29 tools. 3 platforms. All MIT-licensed. Free to use.*
 
 ## 🆕 New npm Tools
 
