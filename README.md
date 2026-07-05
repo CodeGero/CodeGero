@@ -1,6 +1,6 @@
 # Kryptorious Tools — Developer Workflow Automation
 
-Building **23 open-source developer tools** across Python, GitHub Actions, and npm. Scaffold, audit, secure, and ship faster — all from the command line and your CI pipeline.
+Building **26 open-source developer tools** across Python, GitHub Actions, and npm. Scaffold, audit, secure, and ship faster — all from the command line and your CI pipeline.
 
 ## 🐍 PyPI Packages
 
@@ -43,4 +43,12 @@ Building **23 open-source developer tools** across Python, GitHub Actions, and n
 
 ---
 
-*23 tools. 3 platforms. All MIT-licensed. Free to use.*
+*26 tools. 3 platforms. All MIT-licensed. Free to use.*
+
+## 🆕 New npm Tools
+
+| Tool | Description | Install |
+|------|-------------|---------|
+| [LogGuard](https://www.npmjs.com/package/kryptorious-logguard) | Scan, analyze, and tail log files | `npm install -g kryptorious-logguard` |
+| [ConfigSync](https://www.npmjs.com/package/kryptorious-configsync) | Compare and sync config files across projects | `npm install -g kryptorious-configsync` |
+| [PortCheck](https://www.npmjs.com/package/kryptorious-portcheck) | Find free ports, detect conflicts | `npm install -g kryptorious-portcheck` |
